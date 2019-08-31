@@ -1,18 +1,18 @@
 {
-  "symbol": "TUSD",
-  "name": "TrueUSD",
+  "symbol": "TCAD",
+  "name": "TrueCAD",
   "type": "ERC20",
-  "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
-  "ens_address": "",
+  "address": "0x00000100F2A2bd000715001920eB70D229700085",
+  "ens_address": "truecad.eth",
   "decimals": 18,
-  "website": "https://www.trusttoken.com",
+  "website": "https://www.trusttoken.com/truecad",
   "logo": {
     "src": "",
     "width": "",
     "height": "",
-    "ipfs_hash": "QmcQBy5wWrhADZeFbngbxwdhXHpWTGE9NAgUhrLpDpgXmg"
+    "ipfs_hash": "Qmf5MMeVDxL5TGJ6fkyCxXnxZh9ZTVfRRkRJBWs3eDEkXf"
   },
-  "support": { "email": "hello@trusttoken.com", "url": "" },
+  "support": { "email": "support@trusttoken.com", "url": "" },
   "social": {
     "blog": "https://blog.trusttoken.com",
     "chat": "",
