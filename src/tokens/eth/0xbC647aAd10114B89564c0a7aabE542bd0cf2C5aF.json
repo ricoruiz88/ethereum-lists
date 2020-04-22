@@ -1,0 +1,26 @@
+{
+  "symbol": "IONC",
+  "name": "IONChain Token",
+  "type": "ERC20",
+  "address": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

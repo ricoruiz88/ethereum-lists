@@ -1,0 +1,26 @@
+{
+  "symbol": "TCT",
+  "name": "TokenClub Token",
+  "type": "ERC20",
+  "address": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

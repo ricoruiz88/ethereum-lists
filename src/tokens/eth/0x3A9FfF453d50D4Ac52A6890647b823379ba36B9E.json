@@ -1,0 +1,26 @@
+{
+  "symbol": "SHUF",
+  "name": "Shuffle.Monster V3",
+  "type": "ERC20",
+  "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

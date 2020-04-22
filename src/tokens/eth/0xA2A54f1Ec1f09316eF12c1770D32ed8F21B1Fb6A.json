@@ -1,0 +1,26 @@
+{
+  "symbol": "DFT",
+  "name": "DFT",
+  "type": "ERC20",
+  "address": "0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

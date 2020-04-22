@@ -1,0 +1,31 @@
+{
+  "symbol": "NCDT",
+  "name": "NCDT Nuco Cloud Token",
+  "type": "ERC20",
+  "address": "0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://nuco.cloud",
+  "logo": {
+    "src": "https://nuco.cloud/bundles/app/images/logo.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@nuco.cloud", "url": "https://nuco.cloud" },
+  "social": {
+    "blog": "https://nuco.cloud",
+    "chat": "",
+    "facebook": "https://www.facebook.com/nuco.cloud.distributedcloudcomputing/",
+    "forum": "",
+    "github": "https://github.com/nucocloud/ncd-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/officialnucocloudgroup",
+    "twitter": "",
+    "youtube": ""
+  }
+}
